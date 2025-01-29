@@ -4,7 +4,7 @@ Algoritmo promedio
     Leer P1
     Escribir "Ingrese la nota del Parcial 2:"
     Leer P2
-    Escribir "Ingrese la nota de Participación:"
+    Escribir "Ingrese la nota de ParticipaciÃ³n:"
     Leer Participacion
     Escribir "Ingrese la nota del Examen Final:"
     Leer Final
